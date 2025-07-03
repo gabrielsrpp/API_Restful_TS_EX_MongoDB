@@ -10,7 +10,7 @@ const movieSchema = new Schema (
     poster: {type: String}
     },
     {
-        timestamps: true
+        timestamps: true,
     }
 );
 
