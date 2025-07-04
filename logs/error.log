@@ -11,3 +11,6 @@
 25Y-07-04 09:40:04:404 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
 25Y-07-04 09:40:19:4019 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
 25Y-07-04 10:12:24:1224 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+25Y-07-04 10:51:38:5138 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "686692db80d67b9742a2a06a\nO vento levou" (type string) at path "_id" for model "Movie"[39m
+25Y-07-04 10:56:30:5630 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "686692db80d67b9742a2a06a\nO vento levou" (type string) at path "_id" for model "Movie"[39m
+25Y-07-04 10:56:43:5643 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "686692db80d67b9742a2a06a\nO vento levou" (type string) at path "_id" for model "Movie"[39m
