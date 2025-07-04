@@ -1,2 +1,8 @@
 25Y-07-03 10:47:27:4727 - [31merror[39m: [31mNão foi possivel conectar![39m
 25Y-07-03 11:58:27:5827 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+25Y-07-04 08:41:15:4115 - [31merror[39m: [31mErro no sistema: 4048AEBE0E7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+25Y-07-04 08:41:26:4126 - [31merror[39m: [31mErro no sistema: 4048AEBE0E7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80[39m
+[31m[39m
+25Y-07-04 08:42:17:4217 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+25Y-07-04 08:42:19:4219 - [31merror[39m: [31mNão foi possivel conectar![39m
