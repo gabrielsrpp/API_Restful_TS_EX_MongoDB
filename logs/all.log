@@ -309,3 +309,42 @@
 [35m[39m
 25Y-07-04 09:53:42:5342 - [35mhttp[39m: [35mPOST /api/movie 422 - - 0.768 ms[39m
 [35m[39m
+25Y-07-04 10:09:58:958 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:09:58:958 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:10:05:105 - [35mhttp[39m: [35mPOST /api/movie/686692db80d67b9742a2a06b 404 - - 4.058 ms[39m
+[35m[39m
+25Y-07-04 10:10:13:1013 - [35mhttp[39m: [35mPOST /api/movie/686692db80d67b9742a2a06a 404 - - 0.559 ms[39m
+[35m[39m
+25Y-07-04 10:10:41:1041 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:10:41:1041 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:10:46:1046 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:10:46:1046 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:10:47:1047 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:10:47:1047 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:10:52:1052 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:10:52:1052 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:10:56:1056 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:10:56:1056 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:11:02:112 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:11:02:112 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:11:04:114 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:11:04:114 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:11:07:117 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:11:07:117 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:11:12:1112 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:11:12:1112 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:11:15:1115 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:11:15:1115 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:11:18:1118 - [35mhttp[39m: [35mPOST /api/movie/686692db80d67b9742a2a06a 404 - - 2.182 ms[39m
+[35m[39m
+25Y-07-04 10:12:01:121 - [35mhttp[39m: [35mPOST /api/movie/6866942080d67b9742a2a06c 404 - - 1.224 ms[39m
+[35m[39m
+25Y-07-04 10:12:05:125 - [35mhttp[39m: [35mGET /api/movie/6866942080d67b9742a2a06c 200 - - 118.070 ms[39m
+[35m[39m
+25Y-07-04 10:12:24:1224 - [31merror[39m: [31mErro no sistema: Cannot set headers after they are sent to the client[39m
+25Y-07-04 10:12:24:1224 - [35mhttp[39m: [35mGET /api/movie/6866942080d67b9742a2a06d 200 - - 17.975 ms[39m
+[35m[39m
+25Y-07-04 10:12:29:1229 - [35mhttp[39m: [35mGET /api/movie/6866942080d67b9742a2a06c 200 - - 25.268 ms[39m
+[35m[39m
+25Y-07-04 10:13:01:131 - [35mhttp[39m: [35mGET /api/movie/6866942080d67b9742a2a06c 200 - - 186.433 ms[39m
+[35m[39m
