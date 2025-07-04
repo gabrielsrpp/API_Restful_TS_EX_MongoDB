@@ -348,3 +348,85 @@
 [35m[39m
 25Y-07-04 10:13:01:131 - [35mhttp[39m: [35mGET /api/movie/6866942080d67b9742a2a06c 200 - - 186.433 ms[39m
 [35m[39m
+25Y-07-04 10:14:43:1443 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:14:43:1443 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:14:49:1449 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:14:49:1449 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:14:50:1450 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:14:50:1450 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:14:55:1455 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:14:55:1455 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:14:57:1457 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:14:57:1457 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:15:54:1554 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:15:54:1554 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:15:58:1558 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:15:58:1558 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:00:160 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:00:160 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:02:162 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:02:162 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:07:167 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:07:167 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:09:169 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:09:169 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:11:1611 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:11:1611 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:15:1615 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:15:1615 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:16:19:1619 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:16:19:1619 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:17:50:1750 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:17:50:1750 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:18:27:1827 - [35mhttp[39m: [35mPOST /api//movie 404 - - 3.114 ms[39m
+[35m[39m
+25Y-07-04 10:18:52:1852 - [35mhttp[39m: [35mGET /api//movie 404 - - 0.919 ms[39m
+[35m[39m
+25Y-07-04 10:19:20:1920 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:19:20:1920 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:19:23:1923 - [35mhttp[39m: [35mGET /api//movie 404 - - 2.221 ms[39m
+[35m[39m
+25Y-07-04 10:19:30:1930 - [35mhttp[39m: [35mGET /api//movies 404 - - 1.292 ms[39m
+[35m[39m
+25Y-07-04 10:19:40:1940 - [35mhttp[39m: [35mGET /api//movie/ 404 - - 0.510 ms[39m
+[35m[39m
+25Y-07-04 10:19:54:1954 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:19:54:1954 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:19:56:1956 - [35mhttp[39m: [35mGET /api//movies 404 - - 2.297 ms[39m
+[35m[39m
+25Y-07-04 10:20:30:2030 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:20:30:2030 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:20:33:2033 - [35mhttp[39m: [35mGET /api//movie 404 - - 4.144 ms[39m
+[35m[39m
+25Y-07-04 10:23:14:2314 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:23:14:2314 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:23:16:2316 - [35mhttp[39m: [35mGET /api//movie 404 - - 4.165 ms[39m
+[35m[39m
+25Y-07-04 10:23:21:2321 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:23:21:2321 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:23:28:2328 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:23:28:2328 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:23:40:2340 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:23:40:2340 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:24:57:2457 - [35mhttp[39m: [35mGET /api//movie 404 - - 2.074 ms[39m
+[35m[39m
+25Y-07-04 10:24:58:2458 - [35mhttp[39m: [35mGET /api//movie 404 - - 0.543 ms[39m
+[35m[39m
+25Y-07-04 10:25:15:2515 - [35mhttp[39m: [35mGET /api//test 404 - - 0.287 ms[39m
+[35m[39m
+25Y-07-04 10:25:24:2524 - [35mhttp[39m: [35mGET /api//test/movies 404 - - 0.422 ms[39m
+[35m[39m
+25Y-07-04 10:25:35:2535 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:25:35:2535 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:25:36:2536 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:25:36:2536 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:25:43:2543 - [35mhttp[39m: [35mGET /api//test/movies 404 - - 4.920 ms[39m
+[35m[39m
+25Y-07-04 10:25:54:2554 - [32minfo[39m: [32mConectou ao banco de dados![39m
+25Y-07-04 10:25:54:2554 - [32minfo[39m: [32mAplicação esta funcionando na porta : 3000[39m
+25Y-07-04 10:25:57:2557 - [35mhttp[39m: [35mGET /api//test/movies 404 - - 2.094 ms[39m
+[35m[39m
+25Y-07-04 10:26:16:2616 - [35mhttp[39m: [35mGET /api//test 404 - - 0.920 ms[39m
+[35m[39m
+25Y-07-04 10:26:22:2622 - [35mhttp[39m: [35mGET /api//movie 404 - - 0.304 ms[39m
+[35m[39m
